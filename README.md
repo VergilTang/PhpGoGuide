@@ -90,7 +90,7 @@ redis例举出的内容不太多，强烈建议通读《Redis设计与实现》
 10. redis主从集群
 11. redis哨兵 
 12. [脑裂问题](https://cloud.tencent.com/developer/article/1027323)
-13. raft一致性算法: [原理模拟](http://thesecretlivesofdata.com/raft/) [原理模拟2](https://acehi.github.io/raft-algorithm-cn/)
+13. raft一致性算法: [原理模拟](http://thesecretlivesofdata.com/raft/), [原理模拟2](https://acehi.github.io/raft-algorithm-cn/)
 14. redis主从同步
 15. redis多线程 [资料1](https://mp.weixin.qq.com/s/FZu3acwK6zrCBZQ_3HoUgw), [资料2](https://draveness.me/whys-the-design-redis-single-thread/)
 16. [一致性哈希算法](https://www.yuque.com/vergil0415/nsnq75/gxadgh)
